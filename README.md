@@ -15,3 +15,4 @@ python main.py
 ```
 
 ## 界面如下
+![image](https://github.com/user-attachments/assets/5858b4ab-dc65-4c38-bebf-a2f67c057339)
