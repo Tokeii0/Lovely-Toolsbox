@@ -1,0 +1,5 @@
+PySide6>=6.5.0
+PyYAML>=6.0
+loguru>=0.7.0
+pillow>=10.0.0  # 用于处理图标
+pywin32>=306
